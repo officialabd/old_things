@@ -1,0 +1,2 @@
+# snakegame
+The old traditional Snake Game made by me and ZoMker due to the reason of boredom and the urge to work on a project but to bored to think so we need to think together to have more fun create a project we chose snake game because it is easy and simple to make and it 12:15 AM already and our minds are already in the state of sleeping and tbh i don't know why i am writing this description
